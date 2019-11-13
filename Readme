@@ -1,0 +1,6 @@
+Readme
+1. Unzip the folder. It has 2 folders question 1 and question2.
+2. For Running Question 1, For running Main.ipynb file enter the file path of the input data in "file" variable and 
+keep Shortestpath.py file in the same directory it will get imported as you run the main file.
+3. Similarly do for Question 2, enter the path of input file in "file" variable in Main.ipynb. 
+4. There are separate folders of the data that are used for testing the code. 
